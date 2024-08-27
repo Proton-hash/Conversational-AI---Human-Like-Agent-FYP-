@@ -1,0 +1,7 @@
+tensorflow
+pandas
+numpy
+gensim
+scikit-learn
+opencv-python-headless
+argparse
